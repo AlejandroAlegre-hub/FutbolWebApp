@@ -1,0 +1,9 @@
+Programs/
+IdeSrc/*.tmp
+*.exe
+*.dbg
+*.prn
+*.err
+*.bak
+*.fd
+*.loc
